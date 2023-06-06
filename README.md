@@ -1,11 +1,18 @@
-## frontend-developer
+### frontend-developer
 
 ```javascript
-const aboutMe = {
-name: "Alex Dalene",
-age: 25 >= 30 ? 25 : 25,
-nationality: "Sweden",
-};
+const myName = "Alex Dalene";
+let myAge = 25;
+const myNationality = "Sweden";
 
 const arrayOfSkills = ["JavaScript", "React", "Tailwind", "Sass", "HTML", "CSS", "Next", "TypeScript"];
+
+const user = {
+info: {
+name: myName,
+age: myAge,
+nationality: myNationality,
+},
+skills: arrayOfSkills,
+}
 ```
