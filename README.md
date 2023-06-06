@@ -6,11 +6,4 @@
 - ✒️ Years of UI/UX experience as a freelancer
 - 🏫 Still learning the ways of being a developer
 ---
-| Skill  | Mastery |
-| ----------- | ----------- |
-| React  | Novice  |
-| Tailwind  | Novice  |
-| Sass  | Experienced  |
-| Next  | Novice  |
-| TypeScript  | Novice  |
-| JavaScript  | Experienced  |
+| React  | Next | Tailwind | Sass | JavaScript | TypeScript |
