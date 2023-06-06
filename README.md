@@ -7,3 +7,4 @@
 - 🏫 Still learning the ways of being a developer
 ---
 | React  | Next | Tailwind | Sass | JavaScript | TypeScript |
+| ---- | ---- | ---- | ---- | ---- | ---- |
