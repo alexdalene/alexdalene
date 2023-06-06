@@ -1,9 +1,9 @@
 ### Hello, I'm Alex.
 ---
 
-📖 Currently a student @Noroff
-✒️ Years of UI/UX experience as a freelancer
-👓 Learning the ways of developing
+- 📖 Currently a student @Noroff
+- ✒️ Years of UI/UX experience as a freelancer
+- 👓 Learning the ways of developing
 
 | Skill  | Mastery |
 | ----------- | ----------- |
