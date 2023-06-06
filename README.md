@@ -14,5 +14,7 @@ age: myAge,
 nationality: myNationality,
 },
 skills: arrayOfSkills,
-}
+};
+
+console.log(user);
 ```
