@@ -1,4 +1,5 @@
-### Hello, I'm Alex.
+### 👋🏼 Hello, I'm Alex.
+### Frontend-developer
 ---
 
 - 📖 Currently a student @ Noroff Vocational School
