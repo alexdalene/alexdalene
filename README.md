@@ -1,5 +1,7 @@
 ### frontend-developer
 
+[![Generic badge](https://img.shields.io/badge/<React>-<Learning>-<COLOR>.svg)](https://shields.io/)
+
 ```javascript
 const myName = "Alex Dalene";
 let myAge = 25;
