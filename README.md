@@ -1,6 +1,7 @@
-### frontend-developer
+### Hello, I'm Alex.
+---
 
-[![Generic badge](https://img.shields.io/badge/React-Learning-<COLOR>.svg)](https://shields.io/)
+
 
 ```javascript
 const myName = "Alex Dalene";
