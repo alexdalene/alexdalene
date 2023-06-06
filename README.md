@@ -13,4 +13,4 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexdalene)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexdalene)](https://github.com/alexdalene/github-readme-stats)
