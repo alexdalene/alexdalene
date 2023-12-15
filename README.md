@@ -1,5 +1,4 @@
 ### 👋🏼 Hello, I'm Alex, an aspiring frontend-developer.
----
 
 - 📖 Currently a student @ Noroff Vocational School
 - ⚒️ Working @ RePlan as a frontend developer
@@ -8,8 +7,11 @@
 
 ---
 
-| React  | Next | TailwindCSS | SASS | JavaScript | TypeScript | Jest | Cypress
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,svelte,sass,ts,jest,bootstrap,git,php&perline=4)](https://skillicons.dev)
+
+### Software
+[![My Skills](https://skillicons.dev/icons?i=figma,ai,pr,ae)](https://skillicons.dev)
 
 ---
 
