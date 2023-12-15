@@ -8,8 +8,8 @@
 
 ---
 
-| React  | Next | Tailwind | Sass | JavaScript | TypeScript |
-| ---- | ---- | ---- | ---- | ---- | ---- |
+| React  | Next | TailwindCSS | SASS | JavaScript | TypeScript | Jest | Cypress
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
 
 ---
 
