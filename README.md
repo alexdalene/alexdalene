@@ -8,10 +8,13 @@
 ---
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,svelte,sass,ts,jest,bootstrap,git,php&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,sass,ts,jest,bootstrap,git,php&perline=4)](https://skillicons.dev)
 
 ### Software
 [![My Skills](https://skillicons.dev/icons?i=figma,ai,pr,ae)](https://skillicons.dev)
+
+### Currently learning
+[![My Skills](https://skillicons.dev/icons?i=svelte,vue)](https://skillicons.dev)
 
 ---
 
