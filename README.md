@@ -18,4 +18,4 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexdalene&layout=compact)](https://github.com/alexdalene/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexdalene&layout=compact&theme=transparent)](https://github.com/alexdalene/)
