@@ -10,11 +10,14 @@
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ts,jest,bootstrap,git&perline=4)](https://skillicons.dev)
 
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&perline=4)](https://skillicons.dev)
+
 ### Software
 [![My Skills](https://skillicons.dev/icons?i=figma,ai,pr,ae,ps,postman&perline=4)](https://skillicons.dev)
 
 ### Currently learning
-[![My Skills](https://skillicons.dev/icons?i=react,svelte,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte)](https://skillicons.dev)
 
 ---
 
