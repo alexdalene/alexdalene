@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,ai,pr,ae,ps,postman&perline=4)](https://skillicons.dev)
 
 ### Currently learning
-[![My Skills](https://skillicons.dev/icons?i=svelte)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,react)](https://skillicons.dev)
 
 ---
 
