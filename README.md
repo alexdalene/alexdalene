@@ -1,14 +1,14 @@
 ### 👋🏼 Hello, I'm Alex, an aspiring frontend-developer.
 
 - 📖 Currently a student @ Noroff Vocational School
-- ⚒️ Working @ RePlan as a frontend developer
-- ✒️ Years of UI/UX experience as a freelancer
+- ⚒️ Over 1 year experience as Frontend Developer
+- ✒️ UX / UI maniac
 - 🏫 Still learning the ways of being a developer
 
 ---
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ts,jest,bootstrap,git&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,jest,cypress,bootstrap,tailwind,git,svelte&perline=4)](https://skillicons.dev)
 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&perline=4)](https://skillicons.dev)
@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,ai,pr,ae,ps,postman&perline=4)](https://skillicons.dev)
 
 ### Currently learning
-[![My Skills](https://skillicons.dev/icons?i=svelte,react,firebase,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts)](https://skillicons.dev)
 
 ---
 
