@@ -1,7 +1,7 @@
 ### 👋🏼 Hello, I'm Alex and I do the developing
 
-- 📖 2 years Higher Vocational Degree from Noroff
-- ⚒️ Over 1 year experience as a Frontend Developer
+- 📖 2 years Higher Vocational Degree from Noroff in Frontend Developing
+- ⚒️ Over 1 year work experience as a Frontend Developer
 - 🍂 Going to start studying UX Design this autumn
 - 💡 Always got new things to learn
 
