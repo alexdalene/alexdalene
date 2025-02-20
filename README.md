@@ -1,7 +1,7 @@
 ### 👋🏼 Hello, I'm Alex and I do the developing
 
 - 📖 2 years Higher Vocational Degree from Noroff as Frontend Developer
-- ⚒️ Currently employed @ Appsalon as Frontend Developer
+- ⚒️ 1 year of relevant work experience as a Frontend Developer
 - 🍂 Studying UX-design on the side
 - 💡 Always got new things to learn
 
