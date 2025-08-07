@@ -7,7 +7,7 @@
 ---
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,jest,cypress,bootstrap,tailwind,git,svelte,react,nextjs,ts&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,jest,cypress,tailwind,git,svelte,react,nextjs,ts&perline=4)](https://skillicons.dev)
 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,graphql,postgresql&perline=4)](https://skillicons.dev)
