@@ -1,8 +1,7 @@
-### 👋🏼 Hello, I'm Alex and I do the developing
+### 👋🏼 Hello, I'm Alex
 
-- 📖 2 years Higher Vocational Degree from Noroff as Frontend Developer
-- ⚒️ 1 year of relevant work experience as a Frontend Developer
-- 🍂 Studying UX-design on the side
+- 📖 Software Engineer + UX-designer
+- ⚒️ Starting 3D design this fall
 - 💡 Always got new things to learn
 
 ---
@@ -15,9 +14,6 @@
 
 ### Other
 [![My Skills](https://skillicons.dev/icons?i=figma,ai,pr,ae,ps,postman,wordpress,webflow&perline=4)](https://skillicons.dev)
-
-### Currently learning
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
 
 ---
 
